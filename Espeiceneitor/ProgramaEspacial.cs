@@ -265,6 +265,8 @@ namespace Espeiceneitor
             missao.Detalhes = detalhes;
 
             Console.WriteLine("Missão atualizada!");
+
+            Console.WriteLine("Missao nova");
         }
     }
 }
